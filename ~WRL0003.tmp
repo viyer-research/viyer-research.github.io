@@ -22,29 +22,31 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>TheLogicalAvenger</o:Author>
   <o:LastAuthor>Iyer, Vasanth</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-  <o:TotalTime>113</o:TotalTime>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>57</o:TotalTime>
   <o:LastPrinted>2018-09-03T04:53:00Z</o:LastPrinted>
   <o:Created>2018-09-11T01:42:00Z</o:Created>
-  <o:LastSaved>2018-09-11T02:38:00Z</o:LastSaved>
+  <o:LastSaved>2018-09-11T01:42:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>725</o:Words>
-  <o:Characters>4137</o:Characters>
-  <o:Lines>34</o:Lines>
-  <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4853</o:CharactersWithSpaces>
+  <o:Words>753</o:Words>
+  <o:Characters>4295</o:Characters>
+  <o:Lines>35</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5038</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="index_files/item0007.xml"
-target="index_files/props008.xml">
+<link rel=dataStoreItem href="index_files/item0001.xml"
+target="index_files/props002.xml">
 <link rel=themeData href="index_files/themedata.thmx">
 <link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves/>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -819,6 +821,12 @@ span.FooterChar
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:Footer;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -846,7 +854,12 @@ span.FooterChar
 	margin:1.0in 1.0in 1.0in 1.0in;
 	mso-header-margin:.5in;
 	mso-footer-margin:.5in;
+	mso-even-header:url("index_files/header.html") eh1;
 	mso-header:url("index_files/header.html") h1;
+	mso-even-footer:url("index_files/header.html") ef1;
+	mso-footer:url("index_files/header.html") f1;
+	mso-first-header:url("index_files/header.html") fh1;
+	mso-first-footer:url("index_files/header.html") ff1;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -874,7 +887,9 @@ div.WordSection1
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;}
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="2050">
@@ -921,30 +936,33 @@ color:black'>Class information<o:p></o:p></span></b></p>
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;color:black'>Instructor: </span></b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Vasanth
-Iyer<o:p></o:p></span></p>
+"Times New Roman",serif;color:black'>Instructor:<span
+style='mso-spacerun:yes'>   </span></span></b><span style='font-size:12.0pt;
+font-family:"Times New Roman",serif;color:black'>Vasanth Iyer<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;color:black'>Class Days and Time: </span></b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Tuesday
-and Thursday 11:00 AM - 12:15 PM<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+"Times New Roman",serif;color:black'>Class Days and Time:<span
+style='mso-spacerun:yes'>   </span></span></b><span style='font-size:12.0pt;
+font-family:"Times New Roman",serif;color:black'>Tuesday and Thursday 11:00 AM
+- 12:15 PM<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;color:black'>Term of Course: </span></b><span
+"Times New Roman",serif;color:black'>Term of Course:<span
+style='mso-spacerun:yes'>  </span><span style='mso-spacerun:yes'> </span></span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>FALL 2018,
 08/13/2018 - 12/01/2018 -Lecture<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;color:black'>Class Location: </span></b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>MSCX
-114<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+"Times New Roman",serif;color:black'>Class Location: <span
+style='mso-spacerun:yes'> </span></span></b><span style='font-size:12.0pt;
+font-family:"Times New Roman",serif;color:black'><span
+style='mso-spacerun:yes'>   </span>MSCX 114<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
@@ -952,14 +970,21 @@ none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Instructor
 Office Location and Hours:</span></b><span style='font-size:12.0pt;font-family:
 "Times New Roman",serif;color:black'><span style='mso-spacerun:yes'>  </span>337-B
-MWF 10:00-12:00 PM <i style='mso-bidi-font-style:normal'>or</i> by appointment<o:p></o:p></span></p>
+<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:.5in;line-height:normal;
+mso-layout-grid-align:none;text-autospace:none'><span style='font-size:12.0pt;
+font-family:"Times New Roman",serif;color:black'>MWF 10:00-12:00 PM <i
+style='mso-bidi-font-style:normal'>or</i> by appointment<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
 "Times New Roman",serif;color:black'>Instructor Contact:</span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'> <span
-style='mso-spacerun:yes'> </span>ph: xxx-xxx-xxxx, e-mail: viyer@troy.edu<o:p></o:p></span></p>
+style='mso-spacerun:yes'> </span><span class=SpellE>ph</span>: xxx-xxx-<span
+class=SpellE>xxxx</span>, e-mail: viyer@troy.edu<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal;mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
@@ -988,8 +1013,8 @@ margin-bottom:.0001pt;text-align:justify;text-autospace:none'><span
 style='color:black'>Topics are presented that focus on the design and
 development techniques for large high quality software systems. Topics include
 software development models, requirement analysis, project planning and&nbsp;management,
-software architecture&nbsp; and design, implementation, and testing and
-validation.</span></p>
+<span class=GramE>software&nbsp; architecture</span>&nbsp; and design,
+implementation, and testing and validation.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
@@ -1039,9 +1064,20 @@ style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>:<span
 style='mso-spacerun:yes'>  </span><span style='mso-spacerun:yes'>  </span>Project<span
 style='mso-tab-count:2'>                </span>55% (Project complexity should
-use at least three programming languages in its design.)<span
-style='mso-spacerun:yes'>  </span>or show how to create programming solutions
-that scale <o:p></o:p></span></p>
+use at least three <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
+.5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'><span
+style='mso-spacerun:yes'>                                                           
+</span>programming languages in its design.)<span style='mso-spacerun:yes'> 
+</span>or show <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
+.5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'><span
+style='mso-spacerun:yes'>                                                           
+</span>how to create programming solutions that scale <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
@@ -1055,7 +1091,13 @@ none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New R
 color:black'><span style='mso-spacerun:yes'>       </span><span
 style='mso-spacerun:yes'>  </span>Case Study<span
 style='mso-spacerun:yes'>         </span>15% (Comparison of software
-architecture software engineering literatures will be provided.)<o:p></o:p></span></p>
+architecture<span style='mso-spacerun:yes'>            </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+color:black'><span style='mso-spacerun:yes'>                                   
+</span>software engineering literatures will be provided.)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:1.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
@@ -1112,9 +1154,15 @@ margin-left:.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
 none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Attendance
 Policy</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black'>: Daily attendance is required. Any student missing a lesson is responsible
-for any material assigned or covered in class during his or her<span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+color:black'>: Daily attendance is required. Any student missing a lesson
+is<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:51.75pt;margin-bottom:.0001pt;text-indent:.5in;line-height:normal;
+mso-layout-grid-align:none;text-autospace:none'><span style='font-size:12.0pt;
+font-family:"Times New Roman",serif;color:black'>responsible for any material
+assigned or covered in class during his or her<span style='mso-spacerun:yes'> 
+</span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:87.75pt;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
@@ -1139,13 +1187,18 @@ margin-left:.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
 none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Missed
 Exam Policy:</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black'> Exams are taken at the scheduled class time or at the scheduled final
-period. In the rare case when this is not possible, a make-up exam may be possible.
-However, this has to be approved by the instructor before the scheduled exam
-time. Make-up exams are not guaranteed to be the same as the exam given in
-class. If arrangements have not been made in advance, a missed exam will be
-recorded as a zero. Family deaths and extreme medical emergencies are handled
-specially (official proof is required). This policy is also used by quizzes. <o:p></o:p></span></p>
+color:black'> Exams are taken at the scheduled class time or at the scheduled <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+color:black'>final period. In the rare case when this is not possible, a
+make-up exam may be possible. However, this has to be approved by the
+instructor before the scheduled exam time. Make-up exams are not guaranteed to
+be the same as the exam given in class. If arrangements have not been made in advance,
+a missed exam will be recorded as a zero. Family deaths and extreme medical
+emergencies are handled specially (official proof is required). This policy is
+also used by quizzes. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><b
@@ -1153,14 +1206,20 @@ style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
 "Times New Roman",serif;mso-fareast-font-family:"Times New Roman"'>Late
 Assignment/ Project Submission Policy: </span></b><span style='font-size:12.0pt;
 font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman"'>Late
-submissions will be accepted up to two days late subject to the following
-penalties: 20% for 1 day late and 40% for 2 days. Saturdays, <span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+submissions will be accepted up to <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
-.5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman"'>Sundays, and holidays count when computing penalties.<o:p></o:p></span></p>
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:"Times New Roman"'>two days late subject to the
+following penalties: 20% for 1 day late and 40% for 2 days. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:"Times New Roman"'><span
+style='mso-spacerun:yes'> </span>Saturdays, Sundays, and holidays count when
+computing penalties.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
@@ -1177,9 +1236,13 @@ none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Academic
 honesty policies:</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
 color:black'><span style='mso-spacerun:yes'>   </span>All work submitted for
-grading must be the student's own work. Plagiarism will result in a score of
-zero on the test or assignment. Also, the Dean of Students office will be
-informed.<o:p></o:p></span></p>
+grading must be the student's own <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+color:black'>work. Plagiarism will result in a score of zero on the test or
+assignment. Also, the Dean of Students office will be informed.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
@@ -1188,12 +1251,17 @@ style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>ADA
 Policy:<span style='mso-spacerun:yes'>  </span></span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'><span
 style='mso-spacerun:yes'> </span>Troy University supports Section 504 of the
-Rehabilitation Act of 1973 and the Americans with Disabilities Act of 1990,
-which insure that postsecondary students with disabilities have equal access to
-all academic programs, physical access to all buildings, facilities and events,
-and are not discriminated against on the basis of disability. Eligible students,
-with appropriate documentation, will be provided equal opportunity to
-demonstrate their academic skills and potential through the provision of
+Rehabilitation Act of 1973 <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+color:black'>and the Americans with Disabilities Act of 1990, which insure that
+postsecondary students with disabilities have equal access to all academic
+programs, physical access to all buildings, facilities and events, and are not
+discriminated against <span class=GramE>on the basis of</span> disability.
+Eligible students, with appropriate documentation, will be provided equal opportunity
+to demonstrate their academic skills and potential through the provision of
 academic adaptations and reasonable accommodations. Further information,
 including appropriate contact information, can be found at the link for Troy
 University’s Office of Human Resources at </span><a
@@ -1206,29 +1274,19 @@ style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'><o:p></o
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'>Use of
 Cell Phone and Other electronic Devices Policy: </span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black;
-mso-bidi-font-weight:bold'>Use of any electronic devise by students in the
-instructional environment is prohibited unless explicitly approved on a
-case-by-case <o:p></o:p></span></p>
+mso-bidi-font-weight:bold'>Use of any electronic devise <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
-.5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black;
-mso-bidi-font-weight:bold'>basis by the instructor of record or by the Office
-of Disability Services in collaboration with the instructor. Cellular phones,
-pagers, and other communication devices may be used for <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
-.5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black;
-mso-bidi-font-weight:bold'>emergencies, however, but sending or receiving
-non-emergency messages is forbidden by the University. Particularly, use of a
-communication device to violate the Troy University “Standards <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
-.5in;line-height:normal;mso-layout-grid-align:none;text-autospace:none'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black;
-mso-bidi-font-weight:bold'>of Conduct” will result in appropriate disciplinary
-action.<o:p></o:p></span></p>
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+color:black;mso-bidi-font-weight:bold'>by students in the instructional
+environment is prohibited unless explicitly approved on a case-by-case basis by
+the instructor of record or by the Office of Disability Services in
+collaboration with the instructor. Cellular phones, pagers, and other
+communication devices may be used for emergencies, however, but sending or
+receiving non-emergency messages is forbidden by the University. Particularly,
+use of a communication device to violate the Troy University “Standards of
+Conduct” will result in appropriate disciplinary action.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal;mso-layout-grid-align:none;text-autospace:none'><b><span
@@ -1304,8 +1362,11 @@ text-align:center;line-height:normal;mso-layout-grid-align:none;text-autospace:
 none'><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
 font-family:"Times New Roman",serif;color:black'>NOTE</span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black'> This
-syllabus represents a general plan for the course and deviations fromthis plan
-may be necessary during the duration of the course.</span><span
+syllabus represents a general plan for the course and deviations from<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
+color:black'>this plan may be necessary during the duration of the course.</span><span
 style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
 
 </div>
