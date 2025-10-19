@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+title: "Dr. Vasanth Iyer | Research & Teaching"
+description: "AI, Cybersecurity and TinyML at Grambling State University"
+theme: jekyll-theme-minimal
+
+# Optional: navigation
+nav:
+  - name: "Home"
+    link: /
+  - name: "Publications"
+    link: /publications
+  - name: "Courses"
+    link: /courses
